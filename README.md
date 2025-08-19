@@ -1,6 +1,6 @@
 # Prism Collective: Refracting Self-Discovery
 
-[Link Text]([https://www.example.com](https://meldfunction.github.io/self-help/3R.html)')
+[Link Text]([https://www.example.com](https://meldfunction.github.io/self-help/3R.html))
 
 
 ## Purpose and Vision
