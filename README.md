@@ -1,5 +1,8 @@
 # Prism Collective: Refracting Self-Discovery
-URL: [https://meldfunction.github.io/self-help/3R.html]
+
+[Link Text]([https://www.example.com](https://meldfunction.github.io/self-help/3R.html)')
+
+
 ## Purpose and Vision
 
 In an age of increasing isolation, digital overwhelm, and commodified well-being, we stand at a crossroads of human consciousness and societal evolution. The Prism Collective emerges as a beacon of hope, a grassroots movement aimed at empowering individuals and communities to reclaim their mental and emotional sovereignty.
