@@ -1,6 +1,6 @@
 # Prism Collective: Refracting Self-Discovery
 
-Questionnaire: {https://meldfunction.github.io/self-help/3R.html](https://meldfunction.github.io/self-help/3R.html)
+Questionnaire: [https://meldfunction.github.io/self-help/3R.html](https://meldfunction.github.io/self-help/3R.html)
 
 
 
